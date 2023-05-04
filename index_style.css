@@ -79,7 +79,7 @@ a > span {
   width: 140px;
   height: 140px;
   background-color: var(--red);
-  box-shadow: 0px 0px 6px 6px rgba(49, 25, 25, 0.2);
+  box-shadow: 0px 0px 6px 3px rgba(155, 0, 0, 0.265);
 
   z-index: -1;
 }
