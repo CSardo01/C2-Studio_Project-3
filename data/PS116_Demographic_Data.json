@@ -1,7 +1,7 @@
 {
   "ps116": [
     {
-      "year": "2017-18",
+      "year": "2017",
       "enrollment": "539",
       "gradePK (Half Day & Full Day)": "47",
       "gradeK": 86,
@@ -36,10 +36,10 @@
       "numPoverty": "196",
       "percentPoverty": "36.4%",
       "ENI": "35.3%",
-      "img": "data/images/ps116_2017.png"
+      "img": "./data/images/ps116_2017.png"
     },
     {
-      "year": "2018-19",
+      "year": "2018",
       "enrollment": "504",
       "gradePK (Half Day & Full Day)": "54",
       "gradeK": 74,
@@ -74,10 +74,10 @@
       "numPoverty": "168",
       "percentPoverty": "33.3%",
       "ENI": "34.5%",
-      "img": "data/images/ps116_2018.png"
+      "img": "./data/images/ps116_2018.png"
     },
     {
-      "year": "2019-20",
+      "year": "2019",
       "enrollment": "500",
       "gradePK (Half Day & Full Day)": "54",
       "gradeK": 82,
@@ -112,10 +112,10 @@
       "numPoverty": "164",
       "percentPoverty": "32.8%",
       "ENI": "36.8%",
-      "img": "data/images/ps116_2019.png"
+      "img": "./data/images/ps116_2019.png"
     },
     {
-      "year": "2020-21",
+      "year": "2020",
       "enrollment": "410",
       "gradePK (Half Day & Full Day)": "43",
       "gradeK": 60,
@@ -150,10 +150,10 @@
       "numPoverty": "136",
       "percentPoverty": "33.2%",
       "ENI": "36.6%",
-      "img": "data/images/ps116_2020.png"
+      "img": "./data/images/ps116_2020.png"
     },
     {
-      "year": "2021-22",
+      "year": "2021",
       "enrollment": "381",
       "gradePK (Half Day & Full Day)": "48",
       "gradeK": 54,
@@ -188,7 +188,7 @@
       "numPoverty": "127",
       "percentPoverty": "33.3%",
       "ENI": "30.0%",
-      "img": "data/images/ps116_2021.png"
+      "img": "./data/images/ps116_2021.png"
     }
   ]
 }
