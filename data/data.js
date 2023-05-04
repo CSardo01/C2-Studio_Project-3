@@ -46,7 +46,7 @@ function renderItems(collection) {
 
       <div class="icon-container">
         <h2>${element.year}</h2>
-        <img src="/${element.img}">
+        <img src="${element.img}">
       </div>
 
      <div class="dataset-sbp dataset">
