@@ -36,7 +36,7 @@
       "numPoverty": "196",
       "percentPoverty": "36.4%",
       "ENI": "35.3%",
-      "img": "../assets/images/ps116_2017.png"
+      "img": "../../assets/images/ps116_2017.png"
     },
     {
       "year": "2018-19",
@@ -74,7 +74,7 @@
       "numPoverty": "168",
       "percentPoverty": "33.3%",
       "ENI": "34.5%",
-      "img": "../assets/images/ps116_2018.png"
+      "img": "../../assets/images/ps116_2018.png"
     },
     {
       "year": "2019-20",
@@ -112,7 +112,7 @@
       "numPoverty": "164",
       "percentPoverty": "32.8%",
       "ENI": "36.8%",
-      "img": "../assets/images/ps116_2019.png"
+      "img": "../../assets/images/ps116_2019.png"
     },
     {
       "year": "2020-21",
@@ -150,7 +150,7 @@
       "numPoverty": "136",
       "percentPoverty": "33.2%",
       "ENI": "36.6%",
-      "img": "../assets/images/ps116_2020.png"
+      "img": "../../assets/images/ps116_2020.png"
     },
     {
       "year": "2021-22",
@@ -188,7 +188,7 @@
       "numPoverty": "127",
       "percentPoverty": "33.3%",
       "ENI": "30.0%",
-      "img": "../assets/images/tornEdge_1.png"
+      "img": "../../assets/images/tornEdge_1.png"
     }
   ]
 }
