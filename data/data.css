@@ -11,6 +11,7 @@ html {
   font-weight: 300;
   font-style: normal;
   font-size: 14pt;
+  overflow-x: hidden;
 }
 .curtain {
   width: 100vw;
