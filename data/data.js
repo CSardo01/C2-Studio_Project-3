@@ -119,7 +119,7 @@ function renderItems(collection) {
 </div> */}
 
 
-fetch("./assets/PS116_Demographic_Data.json")
+fetch("/assets/PS116_Demographic_Data.json")
   .then(function (response) {
     return response.json();
   })
