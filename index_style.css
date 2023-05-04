@@ -152,9 +152,7 @@ a:hover > span {
   .background {
     width: 200%;
   }
-  .parallax-wrap {
-    background-color: #1bf4ff;
-  }
+
   .parallax-wrap span {
     height: 120px;
     width: 120px;
