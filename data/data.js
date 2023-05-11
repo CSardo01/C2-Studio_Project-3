@@ -46,7 +46,7 @@ function renderItems(collection) {
 
       <div class="icon-container">
         <h2>${element.year}</h2>
-        <img src="${element.img}">
+        <img src="/${element.img}">
       </div>
 
      <div class="dataset-sbp dataset">
@@ -81,11 +81,11 @@ function renderItems(collection) {
       ;">
         <span class="dataset-name" style="right: -2rem; left:auto;">Grade Size</span>
         <div class="data-male"><p>k - ${element.gradeK}</p></div>
-        <div class="data-male"><p>1 - ${element.grade1}</p></div>
-        <div class="data-male"><p>2 - ${element.grade2}</p></div>
-        <div class="data-male"><p>2 - ${element.grade3}</p></div>
-        <div class="data-male"><p>4 - ${element.grade4}</p></div>
-        <div class="data-male"><p>5 - ${element.grade5}</p></div>
+        <div class="data-male"><p>1st - ${element.grade1}</p></div>
+        <div class="data-male"><p>2nd- ${element.grade2}</p></div>
+        <div class="data-male"><p>3rd - ${element.grade3}</p></div>
+        <div class="data-male"><p>4th - ${element.grade4}</p></div>
+        <div class="data-male"><p>5th - ${element.grade5}</p></div>
       </div>
     
     </div>`;
@@ -119,7 +119,7 @@ function renderItems(collection) {
 </div> */}
 
 
-fetch("PS116_Demographic_Data.json")
+fetch("/assets/PS116_Demographic_Data.json")
   .then(function (response) {
     return response.json();
   })
