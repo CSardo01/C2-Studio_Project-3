@@ -51,7 +51,7 @@ header {
   padding: 8rem 8rem 2rem 8rem;
   margin-bottom: -8rem;
   transform: rotate(5deg);
-  transition: transform 1s cubic-bezier(0.76, 0, 0.24, 1);
+  transition: all 1s cubic-bezier(0.76, 0, 0.24, 1);
 }
 .rotate {
   transform: rotate(-5deg);
